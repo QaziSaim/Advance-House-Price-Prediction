@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='ClassifierProject',
+    name='RegressorProject',
     version='0.0.1',
     author='Kazi Sahim',
     author_email='qazisaim121@gmail.com',

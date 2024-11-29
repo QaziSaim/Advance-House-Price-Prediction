@@ -6,5 +6,8 @@ scikit-learn
 pymongo
 tabulate
 xgboost
+selenium 
+beautifulsoup4 
+requests 
 -e .
 
